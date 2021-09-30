@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sagarpuli
+- 👀 I’m interested in Research
+- 🌱 I’m currently learning Programming
